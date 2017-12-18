@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticesForBeginners", "PracticesForBeginners\PracticesForBeginners.csproj", "{3927B414-E3B6-4404-A30B-E91EFA9CD9A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator-with-text-file-input", "calculator-with-text-file-input\calculator-with-text-file-input.csproj", "{95AB5B54-70A9-4ADA-A294-8616C0935ADB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3927B414-E3B6-4404-A30B-E91EFA9CD9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3927B414-E3B6-4404-A30B-E91EFA9CD9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3927B414-E3B6-4404-A30B-E91EFA9CD9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3927B414-E3B6-4404-A30B-E91EFA9CD9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AB5B54-70A9-4ADA-A294-8616C0935ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AB5B54-70A9-4ADA-A294-8616C0935ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AB5B54-70A9-4ADA-A294-8616C0935ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AB5B54-70A9-4ADA-A294-8616C0935ADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

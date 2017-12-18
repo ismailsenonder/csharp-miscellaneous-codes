@@ -1,0 +1,7 @@
+add 2
+divide 5
+add 32
+multiply 10
+subtract 5
+zaaa
+apply 10
