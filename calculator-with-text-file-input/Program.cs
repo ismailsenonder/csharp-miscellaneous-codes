@@ -82,9 +82,10 @@ namespace calculator_with_text_file_input
 
             }
 
-            catch (Exception Ex) { Console.WriteLine("There has been an exception. The exception detail is: " + Ex); }
-
-
+            catch (Exception Ex) 
+            { 
+                Console.WriteLine("There has been an exception. The exception detail is: " + Ex); 
+            }
 
             Console.ReadLine();
         }
